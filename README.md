@@ -1,4 +1,4 @@
-![React Native Links](http://i.imgur.com/MmGT6cn.png "React Native Links")
+![React Native Links](https://imgur.com/9LekXA1 "React Native Links")
 
 React Native Links is a showcase of libs that we've tested and looks like work.
 
