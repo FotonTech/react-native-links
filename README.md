@@ -17,3 +17,9 @@ Draggable sliding up panel implemented in React Native
 
 [SMS Input](https://github.com/shixiaoquan/react-native-sms-verifycode)
 A React Native component for filling in SMS verification codes or passwords, for android and iOS
+
+[Image Picker](https://github.com/react-native-community/react-native-image-picker)
+🌄 A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
+
+[Blob](https://github.com/joltup/rn-fetch-blob)
+A project committed to making file access and data transfer easier, efficient for React Native developers.
